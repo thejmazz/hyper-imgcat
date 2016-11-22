@@ -1,0 +1,26 @@
+{
+  "name": "imgcat",
+  "version": "0.0.1",
+  "description": "imgcat for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "imgcat": "bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejmazz/hyper-imgcat.git"
+  },
+  "keywords": [
+    "hyper"
+  ],
+  "author": "Julian Mazzitelli <mazzitelli.julian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejmazz/hyper-imgcat/issues"
+  },
+  "homepage": "https://github.com/thejmazz/hyper-imgcat#readme",
+  "dependencies": {}
+}
